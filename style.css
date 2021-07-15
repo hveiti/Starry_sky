@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: #0b132b;
+    color: aliceblue;
+    list-style-type: none;
+}
+
+header {
+    height: 90vh;
+    background-image: url(hosizora.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+nav {
+    text-align: center;
+}
+
+nav li {
+    padding: 5px;
+    display: inline-block;
+}
+
+nav a {
+    background: #0e0e52;
+    color: azure;
+    font-size: 24px;
+    border: 1px solid azure;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+nav a:hover {
+    transition: 1.25s;
+    background: #abd2fa;
+    color: #00072d;
+}
+
+div {
+    text-align: left;
+}
+
+div ul {
+    color: mintcream;
+}
+
+div img {
+    margin: 10px;
+    border: 1px solid azure;
+}
+
+div li {
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    width: 290px;
+}
+
+.sidebar {
+    float: left;
+}
+
+.seiza {
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    width: 1150px;
+    border: 0.5px solid mediumblue;
+    color: snow;
+}
+
+.mizugame {
+    border: 0.5px solid #8ae1fc;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.uo {
+    border: 0.5px solid #3772ff;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.ohituji {
+    border: 0.5px solid;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.oushi {
+    border: 0.5px solid cadetblue;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.hutago {
+    border: 0.5px solid #ff9770;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.kani {
+    border: 0.5px solid #fe9000;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.shishi {
+    border: 0.5px solid #ff9f1c;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+
+.otome {
+    border: 0.5px solid fuchsia;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.tenbin {
+    border: 0.5px solid;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.sasori {
+    border: 0.5px solid crimson;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.ite {
+    border: 0.5px solid #e0e0c0;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.yagi {
+    border: 0.5px solid #eccfc3;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+footer {
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+}
+
+section {
+    overflow: hidden;
+}
