@@ -66,6 +66,13 @@ div li {
     padding: 5px;
 }
 
+.books! {
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    width: 100%;
+}
+
 .sidebar {
     float: left;
 }
