@@ -166,15 +166,15 @@ h1 {
 
 div .book{
     border: 0.5px solid #ff9f1c;
-    text-decoration: none;
     border-radius: 8px;
-    width: 150px;
+    width: 200px;
     padding: 10px;
+    margin: 10px;
     display: inline-block;
     float: left;
 }
 
-.booka{
+div .booka{
     width: 100%;
 }
 
