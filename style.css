@@ -168,8 +168,9 @@ div .book{
     border: 0.5px solid #ff9f1c;
     text-decoration: none;
     border-radius: 8px;
-    width: 100px;
+    width: 150px;
     padding: 10px;
+    display: inline-block;
 }
 
 .booka{
