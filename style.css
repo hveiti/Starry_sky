@@ -156,6 +156,17 @@ h1 {
     margin-left: 20px;
 }
 
+.book{
+    border: 0.5px solid #ff9f1c;
+    text-decoration: none;
+    border-radius: 8px;
+    width: 1000px;
+}
+
+.booka{
+    width: 100%;
+}
+
 footer {
     text-align: center;
     height: 30px;
