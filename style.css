@@ -60,13 +60,13 @@ div li {
     width: 290px;
 }
 
-.books {
+div .books {
     float: left;
     margin: 5px;
     padding: 5px;
 }
 
-.books! {
+div .books! {
     margin: 5px;
     padding: 5px;
     width: 100%;
@@ -174,7 +174,7 @@ div .book{
     float: left;
 }
 
-div .booka{
+.booka{
     width: 100%;
 }
 
@@ -182,6 +182,7 @@ footer {
     text-align: center;
     height: 30px;
     font-size: 20px;
+    width: 100%;
 }
 
 section {
