@@ -60,13 +60,13 @@ div li {
     width: 290px;
 }
 
-div .books {
+.books {
     float: left;
     margin: 5px;
     padding: 5px;
 }
 
-div .books! {
+.books! {
     margin: 5px;
     padding: 5px;
     width: 100%;
@@ -164,7 +164,7 @@ h1 {
     margin-left: 20px;
 }
 
-div .book{
+.book{
     border: 0.5px solid #ff9f1c;
     border-radius: 8px;
     width: 200px;
@@ -174,7 +174,7 @@ div .book{
     float: left;
 }
 
-div .book0{
+.book0{
     padding: 10px;
 }
 
