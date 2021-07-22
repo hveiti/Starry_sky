@@ -67,11 +67,11 @@ div li {
 }
 
 .books! {
-    float: left;
     margin: 5px;
     padding: 5px;
     width: 100%;
     margin: 10px;
+    text-align: left;
 }
 
 .sidebar {
